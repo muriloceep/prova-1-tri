@@ -1,0 +1,39 @@
+
+/* estilo do corpo da pagina */
+body {
+background-color: #FFC4AA;
+font-family: sans-serif;
+margin: 0;
+padding: 15px;
+}
+
+/* parte de cima */
+header {
+background-color: #C2AF5E;
+padding: 20px;
+text-align: center;
+color: black;
+}
+
+/* conteudo no meio */
+main {
+background-color: white;
+padding: 20px;
+margin-top: 15px;
+margin-bottom: 15px;
+font-family: "Times New Roman";
+}
+
+/* parte de baixo */
+footer {
+background-color: #C2AF5E;
+text-align: center;
+padding: 10px;
+color: black;
+}
+
+/* cor dos links */
+a {
+color: #C2AF5E;
+font-weight: bold;
+}
